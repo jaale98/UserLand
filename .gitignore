@@ -1,19 +1,11 @@
-# Virtual environment
 venv/
-
-# Python bytecode and cache
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Distribution / packaging
 build/
 dist/
 *.egg-info/
-
-# Environment variables
 .env
-
-# IDE/editor directories
 .vscode/
 .idea/
+instance/
